@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">✒ Blog ✒</h3>
 <p align="center">
-	https://yun-hw.github
+	https://yun-hw.github/
 </p>
 
 <h3 align="center">📊 GitHub Stats 📊 </h3>
