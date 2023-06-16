@@ -1,3 +1,55 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=Hyoungwon'github&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={github 아이디}&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center"> Hi there 👋 </h3>
+
+<!--
+**ysjang0926/ysjang0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<p align="center">
+🚀 저는 4년차 분석가이며, 항상 우주의 별 먼지와 같은 존재라고 생각합니다. 👩‍🚀
+</p>
+<p align="center">
+살아가는 일은 사랑하는 일의 연속이라 생각하며, 오늘도 꾸준히 사랑하는 일들을 하고 있습니다🏄🏻‍♂️
+</p>
+
+<
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=Power BI&logoColor=white"/></a>&nbsp
+</p>
+
+<h3 align="center">✒ Blog ✒</h3>
+<p align="center">
+	https://ysjang0926.github.io
+</p>
+
+<h3 align="center">📊 GitHub Stats 📊 </h3>
+<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
+</p>
+
+
+
+<h3 align="center">🎇 My Hits 🎇 </h3>
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysjang0926&count_bg=%23D7D265&title_bg=%23252222&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
