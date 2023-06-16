@@ -8,7 +8,7 @@
 <h2> My Tech Stack 🐱‍🐉 </h2>
 <a href = "https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff" />
 </a>
-<a href = "https://nodejs.org/ko"><img alt="c" src="https://img.shields.io/badge/Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+<a href = "https://nodejs.org/ko"><img alt="c" src="https://img.shields.io/badge/Nodejs-43853d?style=for-the-badge&logo=c&logoColor=white" />
 </a>
 <a href = "https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white" />
 </a>
