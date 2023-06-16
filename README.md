@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=Hyoungwon'github&fontAlign=70&fontAlignY=30&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=Hyoungwon'github&fontAlign=60&fontAlignY=30&fontSize=60&fontColor=ffffff)
 
 <h3 align="center"> Hi there 👋 </h3>
 
