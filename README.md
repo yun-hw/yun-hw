@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyoungWon&fontSize=90" />
 
-![header](https://capsule-render.vercel.app/api?type=slice&backgorund-color="")
-![header](https://capsule-render.vercel.app/api?type=waving&color=snow&height=120&animation=fadeIn&section=footer&text=I'm%20MOOK🚗🚘🚛&fontAlign=50)
-<div align="center">
-
 
 <h1 align="center">↓ Follow me ↓</h1>
   <hr/>
